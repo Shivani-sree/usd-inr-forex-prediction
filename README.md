@@ -1,4 +1,5 @@
 <img width="1920" height="973" alt="output ss" src="https://github.com/user-attachments/assets/3406d665-634a-4da3-abae-a57d627f0015" />
+<img width="849" height="462" alt="graph output ss" src="https://github.com/user-attachments/assets/e198445b-55ac-4a00-9e2c-05cd0854bfac" />
 # usd-inr-forex-prediction
 USD-INR Forex Prediction using Machine Learning
 
